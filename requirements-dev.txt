@@ -1,0 +1,9 @@
+-e .
+-r requirements-stylecheck.txt
+-r requirements-test.txt
+autopep8
+importmagic
+ipython
+jedi
+rope
+yapf
