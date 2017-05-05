@@ -1,0 +1,14 @@
+*.py[cod]
+*~
+
+.coverage
+.direnv
+.envrc
+
+/*.egg-info/
+/.eggs/
+/.idea/
+/.tox/
+/build/
+/dist/
+/venv/
