@@ -5,10 +5,12 @@
 .direnv
 .envrc
 
-/*.egg-info/
-/.eggs/
-/.idea/
-/.tox/
-/build/
-/dist/
-/venv/
+/*.egg-info
+/.cache
+/.eggs
+/.idea
+/.tox
+/build
+/dist
+/htmlcov
+/venv
