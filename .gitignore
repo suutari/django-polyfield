@@ -11,6 +11,7 @@
 /.idea
 /.tox
 /build
+/db.sqlite3
 /dist
 /htmlcov
 /venv

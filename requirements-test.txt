@@ -1,1 +1,5 @@
 mock
+pytest
+pytest-cov
+pytest-django
+pytest-sugar

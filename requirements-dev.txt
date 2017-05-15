@@ -6,4 +6,5 @@ importmagic
 ipython
 jedi
 rope
+tox
 yapf
